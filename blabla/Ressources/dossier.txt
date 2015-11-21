@@ -1,0 +1,116 @@
+﻿Définition des objectifs :
+    Gain de temps
+    Sureté de l'info
+    Site pour centraliser drive/mail/Site
+    Facile d'accès pour plusieurs acteurs
+
+Définition du contexte
+    Dans le domaine de la musique
+    Concerne: 
+        Bookers
+        Groupes
+        Organisateurs
+        Public
+
+====Analyse de l'existant
+    Si pas de SIA : veille
+
+Mise en avant des contraintes et des risques
+    Risques :
+        Problèmes de serveurs
+    Contraintes : 
+        Faire un site adapté à ce que le client peut payer
+
+Mise en avant et hiérarchisation des besoins
+    1) Données
+        2)Maj bdd
+    1) Centraliser application
+    1) Gérer docs annexes spectacles
+    1) Gestion des groupes (pour le booker)
+    
+    2) Contacts faciles
+    2) Échange facile entre booker et artistes
+    2) Différents types d'utlisateurs
+    
+    3) Prévoir progra
+    3) Mise en contact entre bookers
+
+Mise en avant critères choix de qualité logicielle
+    php myadmin
+    Balamig -> maquettes
+    Netbeans
+
+===Mise en avant des critères ergonomiques
+
+Présentation et Analyse des solutions techniques
+    Site en ligne + bdd en ligne
+    Possibilité bdd locale
+
+=======================Cahier des charges marketing
+À qui s'adresse le projet ?
+    à plusieurs bookers, groupes de bookers (ou non), programmateurs, possesseurs de salles et public des salles
+Quelles sont les réponses actuelles ?
+    Pas de réponse pour le moment, à vérifier
+Quelle est la proposition ?
+    Site avec inscription facultative, plusieurs catégories d'utilisateurs :
+        Les Bookers
+        Les artistes (uniquement des groupes de musique)
+        Les programmateurs de salles de spectacles
+        Les propriétaires de lieux
+        Les visiteurs quelconques
+    Base de donnée sur :
+        Les Groupes
+        Les salles
+        Les concerts
+--Quelles sont les différences entre les réponses actuelles et notre réponse ?
+    à Faire
+
+Dans quel environnement se situe et se déroule le projet ?
+    environnement : domaine de la musique, faire recruter des Groupes
+Dans quel environnement sera implémenté le projet ?
+    Sur internet, et en local (Possibilité pour les bookers de sauvegarder leurs bases de données sur leur disque)
+
+================================Cahier des charges fonctionnel
+Quelles sont les fonctionnalités attendes du produit ?
+Obligatoires
+    Site web
+    Connexion pour différents groupes d'utilisateurs
+    Base de Données
+    Consulter les données (suivant son groupe utilisateur)
+    Centraliser application
+    Échange facile entre booker et artistes
+
+Accessoires
+    Maj bdd
+    Gestion des groupes (pour le booker)
+    Prévoir progra
+
+Optionnelles
+    Possibilité de sauvegarder ses données en local
+    Contacts faciles
+    Mise en contact entre bookers
+    Gérer docs annexes spectacles
+    
+Quels sont les risques, et quelles sont les stratéies de mitigation prévues ?
+Mitigation : atténuer les risques (à mettre dans le glossaire à la fin ? ;) )
+
+Risques 
+    -> Mitigation
+
+-Projet trop difficile pour le temps prévu et nos compétences
+        -> Commencer à  coder le plus important (fonctionnalités obligatoires), et passer du temps sur les autres une fois qu'on aura fini.
+
+-Problèmes de surcharges des serveurs, si trop de trafic
+    -> Serveur de secours ?
+
+Quel est l'engagement en terme de qualité et pourquoi ?
+    Engagement qualité : site pro, maximum possible niveau qualité
+    Car gros client (plusieurs bookers)
+Quel est le niveau requis ?
+    Niveau requis : bonne maitrise PHP/HTML/CSS/SQL
+Est-il négociable ou révisable ?
+    Non négociable : obligé de proposer un site très fonctionnel pour avoir le succès attendu
+Quelles sont les stratégies mises en place pour atteindre ces objectifs en termes de qualité ?
+    Bien suivre le planning, faire des réunions régulièrement pour voir où en sont les autres membres de l'équipe de projet.
+
+

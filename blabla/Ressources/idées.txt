@@ -1,0 +1,104 @@
+A refaire :
+	cas d'utilisation	
+	Schéma cas d'utilisation
+	
+	analyse de l'existent
+	
+	Mieux mettre en lien les captures d'écran et le texte
+
+
+Fonctionnalités
+
+	Navigation et contenus
+		Mise en valeur d'un groupe sur l'accueil
+		Fonction de recherche 
+	
+	Contenus multimédias
+		Intégration d'extraits audios/vidéos
+
+//////////////////////////////////////////////////////////////////////////
+
+Analyse de l'existant
+
+->Qu'est-ce qui existe ?
+	Songkick : 
+		rechercher les concets d'un groupe en particulier
+		En anglais
+		Acheter tickets en ligne
+		"Gros artistes"
+	
+	Infoconcert : 
+		rechercher les concets d'un groupe en particulier
+		En français
+		Acheter tickets en ligne
+		"Gros artistes"
+		
+	Franceconcert
+		spécialisé dans le classique, opéras, ballets
+		réserver billets
+		
+	concerts-metal.com
+		Internationnal
+		Rechercher des groupes, de salles, de festivals
+		"Gros" trucs
+
+->Qu'est-ce qui ne va pas ?
+	Pas d'accès utilisateur (pas de connexion)
+	Manque toute la gestion des groupes pour les bookers
+	Uniquement des salles de taille importante et des groupes connus
+	
+->Que faudrait-il changer pour que ça aille mieux ?
+	-Proposer une connexion 
+	-Gérer les différents groupes d'utilisateurs
+	-On s'intéresse à des concerts locaux, proposer aussi de petites salles, etc
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+1°) Etude d'opportunité								  
+	A) Etude du contexte
+	B) Analyse de l’existant								   
+	B) Analyse des besoins					   
+
+
+2°) Etude de faisabilité			  					  
+
+
+3°) Analyse fonctionnelle								  
+	A) Fonctionnalités de notre produit		
+		commander billets
+	B) Risques et mitigations								   
+	C) Qualité											   
+	D) Répartition du travail 								   
+
+
+4°) Dossier de spécification							  
+	A) Cas d'utilisations									   
+	B) Maquette										   
+	C) Outils techniques									  
+
+
+5°) Glossaire	
+
+Pour  la  deuxième  itération
+:  définition  des  objectifs, 
+du contexte, 
+analyse de l’existant, 
+mise en avant  des  contraintes  et  risques,
+mise  en  avant  et  hiérarchisation  des  besoins,  
+spécifications, 
+cohérence  besoins  /  spécifications
+,  mise  en  avant  des  choix  de  critères  qualité  logicielle,  
+mise  en avant   des critères   ergonomiques
+présentation   et   analyse   des   solutions   techniques,
+aspects développement,
+correspondance  avec  les  critères  qualité  choisis,
+mise  en  avant  des  choix  de gestion du travai
+
+
+
+
+
+
+
+
+
