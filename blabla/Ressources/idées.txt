@@ -98,6 +98,25 @@ mise  en  avant  des  choix  de gestion du travai
 
 
 
+///////////////////////////////////////////////////////////////////////////////////////////
+
+
+Diagramme de cas d’utilisation -> vue synthétique des fonctionnalités les plus importantes
+?	Synthétique
+Faire aussi un modèle de données complet
+Mettre en relation maquettes/site réel
+
+Rendre dossier lundi en pdf sur chamilo
+1 exemplaire papier mardi dans casier Blanco-Lainee
+Oral : montrer ce que va être le produit final -> copie écran (pas nécessairement fonctionnel)
+
+Contexte, objectifs, acteurs, fonctionnalités, synthèse -> recadrer le sujet avant de poursuivre
+
+Qualité : choisir 6 critères parmi les 36 (fiche) ->hiérarchiser, justifier, [comment les mettre en place, comment on la teste]
+
+Ne rien enlever du rapport
+
+Critères de qualité : exactitude, la sécurité, la tolérance aux fautes, la facilité de compréhension, la facilité à être testé, la facilité d’installation.  
 
 
 
