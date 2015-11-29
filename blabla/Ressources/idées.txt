@@ -56,7 +56,7 @@ Analyse de l'existant
 //////////////////////////////////////////////////////////////////////////////////////////////////
 1°) Etude d'opportunité								  
 	A) Etude du contexte
-	B) Analyse de l’existant								   
+	B) Analyse de l'existant								   
 	B) Analyse des besoins					   
 
 
@@ -82,7 +82,7 @@ Analyse de l'existant
 Pour  la  deuxième  itération
 :  définition  des  objectifs, 
 du contexte, 
-analyse de l’existant, 
+analyse de l'existant, 
 mise en avant  des  contraintes  et  risques,
 mise  en  avant  et  hiérarchisation  des  besoins,  
 spécifications, 
@@ -101,8 +101,7 @@ mise  en  avant  des  choix  de gestion du travai
 ///////////////////////////////////////////////////////////////////////////////////////////
 
 
-Diagramme de cas d’utilisation -> vue synthétique des fonctionnalités les plus importantes
-?	Synthétique
+Diagramme de cas d'utilisation -> vue synthétique des fonctionnalités les plus importantes
 Faire aussi un modèle de données complet
 Mettre en relation maquettes/site réel
 
@@ -116,8 +115,40 @@ Qualité : choisir 6 critères parmi les 36 (fiche) ->hiérarchiser, justifier, [co
 
 Ne rien enlever du rapport
 
-Critères de qualité : exactitude, la sécurité, la tolérance aux fautes, la facilité de compréhension, la facilité à être testé, la facilité d’installation.  
+Critères de qualité : exactitude, la sécurité, la tolérance aux fautes, la facilité de compréhension, la facilité à être testé, la facilité d'installation.  
 
+///////////////////////////////////////////////////////////////////////////////
 
+Keskil fo changé pour ke se sua b1
 
+--Pour le diapo
+Penser à mettre les numéro de pages
 
+--Pour les Fonctionnalités
+En Ajouter
+--Pour les cas d'utlisation
+Le nom ne doit pas être anonymous
+Penser à mettre toutes les Fonctionnalités
+
+--Base de données
+Penser à faire le lien avec user
+Ajouter l'explication pour les tables temporaires dans le dossier
+Revoir ce modèle ?
+Mettre un image plus grosse du Schéma
+
+--Analyse de l'existant 
+La refaire : faire un tableau, doit prendre plusieurs pages
+Faire les avantages et les inconvénients
+
+--Pour les critères de Qualité
+Interopérabilité veut dire compatibilité -> changer de critères
+Penser à dire comment on va mettre en place nos critères dans le Dossier
+
+--Pour les critères de bastien et scapin
+faire le lien avec ce qu'il y a avant, expliquer pourquoi
+
+--D&velopper la partie sur les outils techniques
+
+Changer de méthode : iframe = trop vieux, prendre technologie plus récente.
+
+De manière générale, il faut développer dire pourquoi on a choisit les trucs, et comment on compte les mettre en place.
